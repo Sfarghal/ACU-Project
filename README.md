@@ -1,4 +1,0 @@
-ACU-Project
-===========
-
-Admission system
